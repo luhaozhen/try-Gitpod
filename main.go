@@ -12,6 +12,7 @@ func main() {
 		"1": "1",
 		"2": "2",
 		"3": "3",
+		"4": "4",
 	}
 	for k, v := range mymap {
 		fmt.Println(k, " = ", v)
